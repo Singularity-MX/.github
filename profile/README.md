@@ -1,6 +1,6 @@
 # λ Club
 ## "Conectando estudiantes y compartiendo conocimiento"
-Es una comunidad construida por estudiantes y para estudiantes, con la finalidad de participar en actividades educativas y brindar oportunidades de crecimiento con un enfoque en la formación de profesionales en el área tecnológica.
+Es una comunidad construida por estudiantes y para estudiantes, con la finalidad de participar en actividades educativas y brindar oportunidades de crecimiento con un enfoque en la formación interdisciplinaria.
 
 ¿Quieres saber mas de la comunidad? <br>Visita nuestra [Página Oficial](https://lambda-club.com)
 
@@ -11,27 +11,24 @@ Síguenos en nuestras redes sociales **@lambdaclubmx**
 - [GitHub: Lambda-Club-MX](https://github.com/Lambda-Club-MX)
 
 ## ¡Únete!
-Para ser parte de λ Club te pedimos que leas el documento siguiente en donde se detallan las normas que deben cumplir los miembros de la comunidad, así como los medios por los cuáles es posible reportar incidentes, y las consecuencias de esto:<br>
-[Código de Conducta](https://gist.github.com/JPYamamoto/1259b7d4d069b4d2d6acbed860bd4c32)
+Para ser parte de Singularity Club te pedimos que registres tú información de contacto en el siguiente enlace, queremos conocerte y que formes parte ello:<br>
+[Link de registro](https://docs.google.com/forms/d/e/1FAIpQLSdrew1DlFwTqVp17hwkukH1UevBuHt9KiPYyY7ra_gAVfWBuQ/viewform)
 
-Una vez leido el código de conducta y estar de acuerdo con el, **¡Únete a Discord!**<br>
-[Discord λ Club](https://discord.gg/FsDtbxgECX)
+Una vez de acuerdo, **¡Únete a Discord!**<br>
+[Discord Singularity Club](https://discord.gg/FsDtbxgECX)
 
 ## Escuelas/Universidades
-|Escuela     |      Facultades                      |  Estado  |
-|------------|--------------------------------------|----------|
-|    IPN     |- ESCOM<br> - UPIITA<br> - ESIME      |   CDMX   |
-|    UNAM    |- Ciencias, CU<br> - Ingenieria, CU   |   CDMX   |
-|    UANL    | FIME                                 |Nuevo Leon|
-|    TESE    | TESE                                 |  EDOMEX  |
-|            |                                      |          |
+|Escuela     |      Facultades                      |  Estado  | Ciudad |
+|------------|--------------------------------------|----------|--------|
+|    Tecnológico Nacional de México  (ITL)   |  Ingeniería     |   Guanajuato   |  León  |
+
 
 ## Communidad
 ### Community Leaders
 <table align="center">
   <tr align="center">
     <td>
-      <strong>Abril</strong>
+      <strong>Cesar Delgado</strong>
       <p align="center">
         <br>
         <a href="https://www.instagram.com/abrildaurens/">
@@ -39,8 +36,8 @@ Una vez leido el código de conducta y estar de acuerdo con el, **¡Únete a Dis
         </a>
       </p>
       <p align="center">
-        UANL<br>Co-founder λ Club Mx<br>
-        <br><strong>N.L. , México</strong><br>
+        UANL<br>Co-founder Singularity Club Mx<br>
+        <br><strong>León, México</strong><br>
         <br>
         <a href="https://github.com/abrildur">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
@@ -51,7 +48,7 @@ Una vez leido el código de conducta y estar de acuerdo con el, **¡Únete a Dis
       </p>
     </td>
     <td>
-      <strong>Juan Yamamoto</strong>
+      <strong>Javier Gutiérrez</strong>
       <p align="center">
         <br>
         <a href="https://www.instagram.com/no.compila/">
@@ -60,7 +57,7 @@ Una vez leido el código de conducta y estar de acuerdo con el, **¡Únete a Dis
       </p>
       <p align="center">
         UNAM<br>Co-founder λ Club Mx<br>
-        <br><strong>CDMX, México</strong><br>
+        <br><strong>León, México</strong><br>
         <br>
         <a href="https://github.com/JPYamamoto">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
