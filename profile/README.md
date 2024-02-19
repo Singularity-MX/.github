@@ -32,7 +32,7 @@ Una vez de acuerdo, **¡Únete a Discord!**<br>
       <p align="center">
         <br>
         <a href="https://www.instagram.com/abrildaurens/">
-          <img src="https://avatars.githubusercontent.com/u/71578178?v=4"  height="120" alt="Abril">
+          <img src="https://avatars.githubusercontent.com/u/112652221?v=4"  height="120" alt="Abril">
         </a>
       </p>
       <p align="center">
