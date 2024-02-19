@@ -52,7 +52,7 @@ Una vez de acuerdo, **¡Únete a Discord!**<br>
       <p align="center">
         <br>
         <a href="https://www.instagram.com/no.compila/">
-          <img src="https://avatars.githubusercontent.com/u/18181672?v=4"  height="120" alt="JPY">
+          <img src="https://avatars.githubusercontent.com/u/50347332?v=4"  height="120" alt="JPY">
         </a>
       </p>
       <p align="center">
