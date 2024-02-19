@@ -36,7 +36,7 @@ Una vez de acuerdo, **¡Únete a Discord!**<br>
         </a>
       </p>
       <p align="center">
-        UANL<br>Co-founder Singularity Club Mx<br>
+        ITL<br>Co-founder Singularity Club Mx<br>
         <br><strong>León, México</strong><br>
         <br>
         <a href="https://github.com/abrildur">
@@ -56,7 +56,7 @@ Una vez de acuerdo, **¡Únete a Discord!**<br>
         </a>
       </p>
       <p align="center">
-        UNAM<br>Co-founder Singularity Club Mx<br>
+        ITL<br>Co-founder Singularity Club Mx<br>
         <br><strong>León, México</strong><br>
         <br>
         <a href="https://github.com/JPYamamoto">
