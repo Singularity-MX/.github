@@ -5,10 +5,9 @@ Es una comunidad construida por estudiantes y para estudiantes, con la finalidad
 ¿Quieres saber mas de la comunidad? <br>Visita nuestra [Página Oficial](https://lambda-club.com)
 
 Síguenos en nuestras redes sociales **@lambdaclubmx**
-- [Facebook: Lambda Club](https://www.facebook.com/lambdaclubmx)
-- [Instagram: @lambdaclubmx](https://instagram.com/lambdaclubmx)
+- [Facebook: Singularity Club](https://www.facebook.com/SingularityITL/)
 - [Twitter: @lambdaclubmx](https://twitter.com/lambdaclubmx)
-- [GitHub: Lambda-Club-MX](https://github.com/Lambda-Club-MX)
+- [GitHub: Singularity-Club-MX](https://github.com/Singularity-MX)
 
 ## ¡Únete!
 Para ser parte de Singularity Club te pedimos que registres tú información de contacto en el siguiente enlace, queremos conocerte y que formes parte ello:<br>
@@ -51,7 +50,7 @@ Una vez de acuerdo, **¡Únete a Discord!**<br>
       <strong>Javier Gutiérrez</strong>
       <p align="center">
         <br>
-        <a href="https://www.instagram.com/no.compila/">
+        <a href="https://www.instagram.com/replacedspace17/">
           <img src="https://avatars.githubusercontent.com/u/50347332?v=4"  height="120" alt="JPY">
         </a>
       </p>
