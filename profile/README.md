@@ -6,7 +6,7 @@ Es una comunidad construida por estudiantes y para estudiantes, con la finalidad
 
 Síguenos en nuestras redes sociales **@Singularity Club**
 - [Facebook: Singularity Club](https://www.facebook.com/SingularityITL/)
-- [Twitter: @lambdaclubmx](https://twitter.com/lambdaclubmx)
+- [Twitter: @singularityclub](https://twitter.com/singularityclub)
 - [GitHub: Singularity-Club-MX](https://github.com/Singularity-MX)
 
 ## ¡Únete!
