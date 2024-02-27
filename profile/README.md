@@ -14,7 +14,7 @@ Para ser parte de Singularity Club te pedimos que registres tú información de 
 [Link de registro](https://docs.google.com/forms/d/e/1FAIpQLSdrew1DlFwTqVp17hwkukH1UevBuHt9KiPYyY7ra_gAVfWBuQ/viewform)
 
 Una vez de acuerdo, **¡Únete a Discord!**<br>
-[Discord Singularity Club](https://discord.gg/FsDtbxgECX)
+[Discord Singularity Club](https://discord.com/invite/dc2k9EaJ)
 
 ## Escuelas/Universidades
 |Escuela     |      Facultades                      |  Estado  | Ciudad |
