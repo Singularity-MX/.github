@@ -71,7 +71,7 @@ Una vez de acuerdo, **¡Únete a Discord!**<br>
   </tr>
 </table>
 
-### Team Leaders
+### Cell Leaders
 <table align="center">
   <tr align="center">
     <td>
