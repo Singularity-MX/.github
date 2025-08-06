@@ -1,104 +1,173 @@
+
 # Singularity Club
-## "Conectando estudiantes y compartiendo conocimiento"
-Es una comunidad construida por estudiantes y para estudiantes, con la finalidad de participar en actividades educativas y brindar oportunidades de crecimiento con un enfoque en la formación interdisciplinaria.
 
-¿Quieres saber mas de la comunidad? 
+**"Ciencia abierta, tecnología social"**
 
-Síguenos en nuestras redes sociales **@Singularity Club**
-- [Facebook: Singularity Club](https://www.facebook.com/SingularityITL/)
-- [Twitter: @hub_singularity](https://twitter.com/hub_singularity)
-- [GitHub: Singularity-Club-MX](https://github.com/Singularity-MX)
+> Comunidad independiente y descentralizada de personas que desarrollan soluciones tecnológicas de código abierto para impactar positivamente a sus comunidades.
 
-## ¡Únete!
-Para ser parte de Singularity Club te pedimos que registres tú información de contacto en el siguiente enlace, queremos conocerte y que formes parte ello:<br>
-[Link de registro](https://docs.google.com/forms/d/e/1FAIpQLSdrew1DlFwTqVp17hwkukH1UevBuHt9KiPYyY7ra_gAVfWBuQ/viewform)
+---
 
-Una vez de acuerdo, **¡Únete a Discord!**<br>
-[Discord Singularity Club](https://discord.com/invite/dc2k9EaJ)
+## 📌 ¿Qué es Singularity Club?
 
-## Escuelas/Universidades
-|Escuela     |      Facultades                      |  Estado  | Ciudad |
-|------------|--------------------------------------|----------|--------|
-|    Tecnológico Nacional de México  (ITL)   |  Ingeniería     |   Guanajuato   |  León  |
+**Singularity Club** es un colectivo interdisciplinario sin afiliación institucional, enfocado en el desarrollo de proyectos tecnológicos, científicos y sociales con impacto local. Nuestra misión es impulsar la innovación de base comunitaria mediante ciencia abierta, transferencia tecnológica libre, y formación autodidacta.
+
+Trabajamos bajo un modelo **colaborativo, escalable y descentralizado**: cada nodo local identifica problemáticas y oportunidades en su entorno, desarrollando proyectos o actividades alineadas con nuestros principios.
+
+---
+
+## 🌍 Principios
+
+- **Ciencia y tecnología abierta**
+- **Compromiso comunitario**
+- **Educación accesible**
+- **Colaboración interdisciplinaria**
+- **Impacto social**
+- **No fines de lucro**
+
+---
+
+## 🔧 Estructura de la comunidad
+
+Dividimos nuestras actividades en cinco áreas principales:
+
+### 1. Sociales
+- Convivencias y encuentros entre miembros.
+- Actividades de apoyo, beneficencia y voluntariado.
+
+### 2. Innovación y tecnología
+- Desarrollo de proyectos de alto impacto para transferencia tecnológica abierta.
+- Participación en hackathones como NASA Space Apps.
+- Publicación de desarrollos en plataformas abiertas.
+
+### 3. Económicas
+- Organización de cursos, talleres y actividades autofinanciables.
+- Recaudación de fondos para proyectos sociales y operativos.
+
+### 4. Difusión
+- Generación de contenido en redes sociales (notas, videos, divulgación).
+- Transparencia y rendición de cuentas.
+- Convocatorias de admisión.
+
+### 5. Internas
+- Mentorías, talleres, capacitación y formación técnica de miembros.
+- Organización por nodos locales con liderazgo autónomo.
+
+---
+
+## 🌐 Expansión y nodos regionales
+
+Nuestra base está en León, Guanajuato, pero buscamos expandirnos mediante un modelo de **nodos regionales**.
+
+Cada miembro que se integra desde otra ciudad puede abrir su propio nodo para atender las problemáticas locales. Los líderes de cada nodo serán evaluados anualmente con base en:
+- Impacto comunitario.
+- Actividades organizadas.
+- Proyectos desarrollados o implementados.
+
+---
+
+## 👤 ¿Quién puede unirse?
+
+Buscamos personas mayores de 18 años, comprometidas, con vocación social y formación o interés en alguna de estas áreas:
+- Tecnología (software, hardware, electrónica, IA)
+- Administración, finanzas o economía social
+- Ciencias sociales y humanidades
+- Comunicación, diseño o medios digitales
 
 
-## Communidad
-### Community Leaders
+---
+
+## 📥 ¿Cómo unirte?
+
+Lanzamos **convocatorias bimestrales** para integrar nuevos miembros. Para registrarte:
+
+📌 [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSdrew1DlFwTqVp17hwkukH1UevBuHt9KiPYyY7ra_gAVfWBuQ/viewform)  
+📢 Únete a nuestro canal de Discord para mantenerte al tanto:  
+👉 [Discord: Singularity Club](https://discord.com/invite/dc2k9EaJ)
+
+---
+
+## 🔗 Redes sociales
+
+Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
+
+- [🌐 Facebook](https://www.facebook.com/SingularityITL/)
+- [🐦 Twitter / X](https://twitter.com/hub_singularity)
+- [💻 GitHub](https://github.com/Singularity-MX)
+- [💻 TikTok](https://github.com/Singularity-MX)
+- [💻 Sitio Web](https://github.com/Singularity-MX)
+- [💻 Instagram](https://www.instagram.com/singularity.open)
+---
+
+## 👥 Nodos activos
+
 <table align="center">
   <tr align="center">
     <td>
-      <strong>Cesar Delgado</strong>
-      <p align="center">
-        <br>
-        <a href="https://twitter.com/cess_delgado">
-          <img src="https://avatars.githubusercontent.com/u/112652221?v=4"  height="120" alt="Abril">
-        </a>
-      </p>
-      <p align="center">
-        ITL<br>Co-founder Singularity Club Mx<br>
-        <br><strong>León, México</strong><br>
+      <strong>César Delgado</strong>
+      <p>
+        <img src="https://avatars.githubusercontent.com/u/112652221?v=4" height="120" alt="César Delgado">
+        <br>Co-fundador
+        <br><strong>León, México</strong>
         <br>
         <a href="https://github.com/cessdel">
-          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+          <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="40" />
+        </a>
+         <a href="https://www.instagram.com/cess.del/">
+          <img src=https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40" />
         </a>
         <a href="https://www.linkedin.com/in/cesar-abraham-delgado-cardona-ba07b61a6">
-          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+          <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40"/>
+        </a>
+        <a href="mailto:cesardelgadocardona@gmail.com">
+          <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40"/>
         </a>
       </p>
     </td>
     <td>
       <strong>Javier Gutiérrez</strong>
-      <p align="center">
-        <br>
-        <a href="https://www.instagram.com/replacedspace17/">
-          <img src="https://avatars.githubusercontent.com/u/50347332?v=4"  height="120" alt="JPY">
-        </a>
-      </p>
-      <p align="center">
-        ITL<br>Co-founder Singularity Club Mx<br>
-        <br><strong>León, México</strong><br>
+      <p>
+        <img src="https://avatars.githubusercontent.com/u/50347332?v=4" height="120" alt="Javier Gutiérrez">
+        <br>Co-fundador
+        <br><strong>León, México</strong>
         <br>
         <a href="https://github.com/ReplacedSpace17">
-          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+          <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="40"/>
+        </a>
+         <a href="https://www.instagram.com/replacedspace17.py/">
+          <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40" />
         </a>
         <a href="https://www.linkedin.com/in/replacedspace17/">
-          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+          <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40"/>
+        </a>
+            <a href="mailto:replacedspace17@gmail.com">
+          <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40"/>
         </a>
       </p>
     </td>
-    
-    
   </tr>
 </table>
 
-### Cell Leaders
-<table align="center">
-  <tr align="center">
-    <td>
-      <strong>Fabián</strong>
-      <p align="center">
-        <br>
-        <a href="https://twitter.com/cess_delgado">
-          <img src="https://avatars.githubusercontent.com/u/161074245?v=4"  height="120" alt="Abril">
-        </a>
-      </p>
-      <p align="center">
-        ITL<br>Team Leader Singularity Club Mx<br>
-        <br><strong>León, México</strong><br>
-        <br>
-        <a href="https://github.com/FabToJu">
-          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
-        </a>
-        <a href="https://www.linkedin.com/in/cesar-abraham-delgado-cardona-ba07b61a6">
-          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-        </a>
-      </p>
-    </td>
-    
-    
-    
-  </tr>
-</table>
+|Nodo     |      Región                      |  Estado  | Líderes
+|------------|--------------------------------------|----------|--------|
+|    >_Singularity_Leon   |  León     |   Guanajuato   |  Cesar Delgado / Javier Gutiérrez  |
+|
 
 
 ---
+
+## 🤝 Colabora con nosotros
+
+¿Tienes un proyecto, problema técnico o idea social que podríamos ayudar a resolver?
+
+Contáctanos para colaborar, asesorar o co-crear:  
+📩 singularity.contact.itl@gmail.com
+
+
+---
+
+## Licencia
+
+Todos los proyectos publicados por el colectivo están sujetos a licencias de código abierto. Salvo que se indique lo contrario, usamos **MIT License** para software y **CC-BY 4.0** para contenido educativo.
+
+---
+
