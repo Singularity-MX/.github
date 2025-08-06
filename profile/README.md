@@ -110,7 +110,7 @@ Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
         <br><strong>León, México</strong>
         <br>
         <a href="https://github.com/cessdel">
-          <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="40" />
+          <img src="https://img.icons8.com/?size=100&id=CexFs1lac6J7&format=png&color=000000" width="40" />
         </a>
          <a href="https://www.instagram.com/cess.del/">
           <img src=https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40" />
@@ -131,7 +131,7 @@ Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
         <br><strong>León, México</strong>
         <br>
         <a href="https://github.com/ReplacedSpace17">
-          <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="40"/>
+          <img src="https://img.icons8.com/?size=100&id=CexFs1lac6J7&format=png&color=000000" width="40"/>
         </a>
          <a href="https://www.instagram.com/replacedspace17.py/">
           <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40" />
