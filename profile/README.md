@@ -167,7 +167,7 @@ Contáctanos para colaborar, asesorar o co-crear:
 
 ## Licencia
 
-Todos los proyectos publicados por el colectivo están sujetos a licencias de código abierto. Salvo que se indique lo contrario, usamos **MIT License** para software y **CC-BY 4.0** para contenido educativo.
-
+Todos los proyectos publicados por el colectivo están sujetos a licencias de código abierto.
+Salvo que se indique lo contrario, usamos GNU General Public License (GPL) para el software y CC-BY 4.0 para contenido educativo.
 ---
 
