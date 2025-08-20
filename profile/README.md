@@ -57,7 +57,7 @@ Dividimos nuestras actividades en cinco áreas principales:
 
 Nuestra base está en León, Guanajuato, pero buscamos expandirnos mediante un modelo de **nodos regionales**.
 
-Cada miembro que se integra desde otra ciudad puede abrir su propio nodo para atender las problemáticas locales. Los líderes de cada nodo serán evaluados anualmente con base en:
+Cada miembro que se integra desde otra ciudad puede abrir su propio nodo para atender las problemáticas locales. Los líderes de cada nodo deberán realizar un  plan de trabajo anualmente con base en:
 - Impacto comunitario.
 - Actividades organizadas.
 - Proyectos desarrollados o implementados.
