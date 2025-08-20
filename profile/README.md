@@ -45,7 +45,6 @@ Dividimos nuestras actividades en cinco áreas principales:
 
 ### 4. Difusión
 - Generación de contenido en redes sociales (notas, videos, divulgación).
-- Transparencia y rendición de cuentas.
 - Convocatorias de admisión.
 
 ### 5. Internas
