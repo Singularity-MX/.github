@@ -77,22 +77,16 @@ Buscamos personas mayores de 18 años, comprometidas, con vocación social y for
 
 ## 📥 ¿Cómo unirte?
 
-Lanzamos **convocatorias bimestrales** para integrar nuevos miembros. Para registrarte:
-
-📌 [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSdrew1DlFwTqVp17hwkukH1UevBuHt9KiPYyY7ra_gAVfWBuQ/viewform)  
-📢 Únete a nuestro canal de Discord para mantenerte al tanto:  
-👉 [Discord: Singularity Club](https://discord.com/invite/dc2k9EaJ)
-
+Lanzamos **convocatorias bimestrales** para integrar nuevos miembros. La próxima convocatoria será el 10/10/2025
 ---
 
 ## 🔗 Redes sociales
 
 Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
 
-- [🌐 Facebook](https://www.facebook.com/SingularityITL/)
+- [🌐 Facebook](https://www.facebook.com/Singularity.py/)
 - [🐦 Twitter / X](https://twitter.com/hub_singularity)
 - [💻 GitHub](https://github.com/Singularity-MX)
-- [💻 TikTok](https://github.com/Singularity-MX)
 - [💻 Sitio Web](https://github.com/Singularity-MX)
 - [💻 Instagram](https://www.instagram.com/singularity.open)
 ---
@@ -114,9 +108,6 @@ Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
          <a href="https://www.instagram.com/cess.del/">
           <img src=https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40" />
         </a>
-        <a href="https://www.linkedin.com/in/cesar-abraham-delgado-cardona-ba07b61a6">
-          <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40"/>
-        </a>
         <a href="mailto:cesardelgadocardona@gmail.com">
           <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40"/>
         </a>
@@ -135,9 +126,6 @@ Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
          <a href="https://www.instagram.com/replacedspace17.py/">
           <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40" />
         </a>
-        <a href="https://www.linkedin.com/in/replacedspace17/">
-          <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40"/>
-        </a>
             <a href="mailto:replacedspace17@gmail.com">
           <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40"/>
         </a>
@@ -149,7 +137,6 @@ Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
 |Nodo     |      Región                      |  Estado  | Líderes
 |------------|--------------------------------------|----------|--------|
 |    >_Singularity_Leon   |  León     |   Guanajuato   |  Cesar Delgado / Javier Gutiérrez  |
-|
 
 
 ---
@@ -167,6 +154,6 @@ Contáctanos para colaborar, asesorar o co-crear:
 ## Licencia
 
 Todos los proyectos publicados por el colectivo están sujetos a licencias de código abierto.
-Salvo que se indique lo contrario, usamos GNU General Public License (GPL) para el software y CC-BY 4.0 para contenido educativo.
+Usamos GNU General Public License (GPL) para el software y CC-BY 4.0 para contenido educativo.
 ---
 
