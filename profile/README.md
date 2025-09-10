@@ -8,7 +8,7 @@
 ---
 
 ## 📌 ¿Qué es Singularity Club?
-
+<img src="./Group 62.png" alt="Logo de Singularity" width="100%"/>
 **Singularity Club** es un colectivo interdisciplinario sin afiliación institucional ni gubernamental, enfocado en el desarrollo de proyectos tecnológicos, científicos y sociales con impacto local. Nuestra misión es impulsar la innovación de base comunitaria mediante ciencia abierta, transferencia tecnológica libre, y formación autodidacta.
 
 Trabajamos bajo un modelo **colaborativo, escalable y descentralizado**: cada nodo local identifica problemáticas y oportunidades en su entorno, desarrollando proyectos o actividades alineadas con nuestros principios.
