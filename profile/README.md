@@ -87,7 +87,7 @@ Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
 - [🌐 Facebook](https://www.facebook.com/Singularity.py/)
 - [🐦 Twitter / X](https://twitter.com/hub_singularity)
 - [💻 GitHub](https://github.com/Singularity-MX)
-- [💻 Sitio Web](https://github.com/Singularity-MX)
+- [💻 Sitio Web](https://www.singularitymx.org)
 - [💻 Instagram](https://www.instagram.com/singularity.open)
 ---
 
@@ -146,7 +146,7 @@ Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
 ¿Tienes un proyecto, problema técnico o idea social que podríamos ayudar a resolver?
 
 Contáctanos para colaborar, asesorar o co-crear:  
-📩 singularity.contact.itl@gmail.com
+📩 replacedspace17@singularitymx.org
 
 
 ---
