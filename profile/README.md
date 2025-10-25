@@ -77,7 +77,8 @@ Buscamos personas mayores de 18 años, comprometidas, con vocación social y for
 
 ## 📥 ¿Cómo unirte?
 
-Lanzamos **convocatorias bimestrales** para integrar nuevos miembros. La próxima convocatoria será el 10/10/2025
+Puedes registrándote en el siguiente formulario:
+
 ---
 
 ## 🔗 Redes sociales
