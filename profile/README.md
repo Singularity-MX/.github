@@ -1,98 +1,50 @@
+# Singularity MX
 
-# Singularity Club
+**"Scientific Research and Open Science Collective"**
 
-**"Ciencia abierta, tecnología social"**
-
-> Comunidad independiente y descentralizada de personas que desarrollan soluciones tecnológicas de código abierto para impactar positivamente a sus comunidades.
-
----
-
-## 📌 ¿Qué es Singularity Club?
-<img src="./Group 62.png" alt="Logo de Singularity" width="100%"/>
-**Singularity Club** es un colectivo interdisciplinario sin afiliación institucional ni gubernamental, enfocado en el desarrollo de proyectos tecnológicos, científicos y sociales con impacto local. Nuestra misión es impulsar la innovación de base comunitaria mediante ciencia abierta, transferencia tecnológica libre, y formación autodidacta.
-
-Trabajamos bajo un modelo **colaborativo, escalable y descentralizado**: cada nodo local identifica problemáticas y oportunidades en su entorno, desarrollando proyectos o actividades alineadas con nuestros principios.
+> Independent initiative dedicated to scientific computing, DIY biology, citizen science, and the development of open-source technologies for socio-environmental impact.
 
 ---
 
-## 🌍 Principios
+## 📌 About Us
+<img src="./Group 62.png" alt="Singularity Logo" width="100%"/>
 
-- **Ciencia y tecnología abierta**
-- **Compromiso comunitario**
-- **Educación accesible**
-- **Colaboración interdisciplinaria**
-- **Impacto social**
-- **No fines de lucro**
+**Singularity MX** is an interdisciplinary research collective focused on creating accessible technological and scientific solutions. Our mission is to drive innovation and democratize knowledge through open science, free technology transfer, and collaborative research. 
 
+We operate as an open laboratory where software development, applied artificial intelligence, open hardware, and data analysis converge to address real-world problems in our communities.
+
+## 🔬 Research Lines 
+
+Our core research focuses on **Open scientific infrastructure for urban environmental and biological observation**. 
+
+**Core idea:** To build open systems for observing, measuring, and analyzing urban environmental and biological phenomena using sensors, distributed data, computational analysis, and citizen science.
+
+To achieve this goal, we work on the following research sub-lines:
+- **Open scientific instrumentation:** Development of low-cost and open-source hardware.
+- **Environmental and geospatial intelligence:** Satellite analysis and data modeling.
+- **Citizen science and distributed networks:** Community integration in data collection.
+- **Urban bio-observation:** Biodiversity monitoring in city environments.
+- **Open scientific computing:** Creation of reproducible software, APIs, and pipelines.
 ---
 
-## 🔧 Estructura de la comunidad
+## 🌍 Principles
 
-Dividimos nuestras actividades en cinco áreas principales:
+- **Open science and technology:** All our development is auditable, replicable, and free.
+- **Interdisciplinary collaboration:** We believe in the union of engineering, exact sciences, and social impact.
+- **Accessible education:** We promote self-taught learning and knowledge transfer.
+- **Community impact and commitment:** Science must serve the environment where it is developed.
 
-### 1. Sociales
-- Convivencias y encuentros entre miembros.
-- Actividades de apoyo, beneficencia y voluntariado.
+## 🔗 Social Media
 
-### 2. Innovación y tecnología
-- Desarrollo de proyectos de alto impacto para transferencia tecnológica abierta.
-- Participación en hackathones como NASA Space Apps.
-- Publicación de desarrollos en plataformas abiertas.
-
-### 3. Económicas
-- Organización de cursos, talleres y actividades autofinanciables.
-- Recaudación de fondos para proyectos sociales y operativos.
-
-### 4. Difusión
-- Generación de contenido en redes sociales (notas, videos, divulgación).
-- Convocatorias de admisión.
-
-### 5. Internas
-- Mentorías, talleres, capacitación y formación técnica de miembros.
-- Organización por nodos locales con liderazgo autónomo.
-
----
-
-## 🌐 Expansión y nodos regionales
-
-Nuestra base está en León, Guanajuato, pero buscamos expandirnos mediante un modelo de **nodos regionales**.
-
-Cada miembro que se integra desde otra ciudad puede abrir su propio nodo para atender las problemáticas locales. Los líderes de cada nodo deberán realizar un  plan de trabajo anualmente con base en:
-- Impacto comunitario.
-- Actividades organizadas.
-- Proyectos desarrollados o implementados.
-
----
-
-## 👤 ¿Quién puede unirse?
-
-Buscamos personas mayores de 18 años, comprometidas, con vocación social y formación o interés en alguna de estas áreas:
-- Tecnología (software, hardware, electrónica, IA)
-- Administración, finanzas o economía social
-- Ciencias sociales y humanidades
-- Comunicación, diseño o medios digitales
-
-
----
-
-## 📥 ¿Cómo unirte?
-
-Puedes registrándote en el siguiente formulario:
-
----
-
-## 🔗 Redes sociales
-
-Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
+Follow us on our social networks to learn about our projects and activities:
 
 - [🌐 Facebook](https://www.facebook.com/Singularity.py/)
 - [🐦 Twitter / X](https://twitter.com/hub_singularity)
 - [💻 GitHub](https://github.com/Singularity-MX)
-- [💻 Sitio Web](https://www.singularitymx.org)
+- [💻 Website](https://www.singularitymx.org)
 - [💻 Instagram](https://www.instagram.com/singularity.open)
----
 
-## 👥 Nodos activos
+## 👥 Co-founders
 
 <table align="center">
   <tr align="center">
@@ -100,14 +52,14 @@ Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
       <strong>César Delgado</strong>
       <p>
         <img src="https://avatars.githubusercontent.com/u/112652221?v=4" height="120" alt="César Delgado">
-        <br>Co-fundador
-        <br><strong>León, México</strong>
+        <br>Co-founder
+        <br><strong>León, Mexico</strong>
         <br>
         <a href="https://github.com/cessdel">
           <img src="https://img.icons8.com/?size=100&id=CexFs1lac6J7&format=png&color=000000" width="40" />
         </a>
          <a href="https://www.instagram.com/cess.del/">
-          <img src=https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40" />
+          <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40" />
         </a>
         <a href="mailto:cesardelgadocardona@gmail.com">
           <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40"/>
@@ -118,8 +70,8 @@ Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
       <strong>Javier Gutiérrez</strong>
       <p>
         <img src="https://avatars.githubusercontent.com/u/50347332?v=4" height="120" alt="Javier Gutiérrez">
-        <br>Co-fundador
-        <br><strong>León, México</strong>
+        <br>Co-founder
+        <br><strong>León, Mexico</strong>
         <br>
         <a href="https://github.com/ReplacedSpace17">
           <img src="https://img.icons8.com/?size=100&id=CexFs1lac6J7&format=png&color=000000" width="40"/>
@@ -127,7 +79,7 @@ Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
          <a href="https://www.instagram.com/replacedspace17.py/">
           <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40" />
         </a>
-            <a href="mailto:replacedspace17@gmail.com">
+            <a href="mailto:coordinacion@singularitymx.org">
           <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40"/>
         </a>
       </p>
@@ -135,26 +87,17 @@ Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
   </tr>
 </table>
 
-|Nodo     |      Región                      |  Estado  | Líderes
-|------------|--------------------------------------|----------|--------|
-|    >_Singularity_Leon   |  León     |   Guanajuato   |  Cesar Delgado / Javier Gutiérrez  |
-
-
 ---
 
-## 🤝 Colabora con nosotros
+## 🤝 Collaborate with us
 
-¿Tienes un proyecto, problema técnico o idea social que podríamos ayudar a resolver?
+Do you have a project, technical problem, or idea we could help solve?
 
-Contáctanos para colaborar, asesorar o co-crear:  
-📩 replacedspace17@singularitymx.org
+Contact us to collaborate, advise, or co-create:  
+📩 coordinacion@singularitymx.org
 
 
----
+## License
 
-## Licencia
-
-Todos los proyectos publicados por el colectivo están sujetos a licencias de código abierto.
-Usamos GNU General Public License (GPL) para el software y CC-BY 4.0 para contenido educativo.
----
-
+All projects published by the collective are subject to open-source licenses.
+We use the GNU General Public License (GPL) for software and CC-BY 4.0 for educational content.
